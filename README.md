@@ -21,6 +21,6 @@ Today's task focused on understanding and applying **aggregate functions**, **GR
 
 **Tools used:** MySQL Workbench
 **Outcome:**  
-- Gained hands-on experience in *aggregation function** and **categorization**.  
+- Gained hands-on experience in aggregation function and categorization.  
 - Practiced **grouping and filtering** grouped data effectively.  
 - Improved understanding of relational data analysis by linking two tables. 
