@@ -19,7 +19,8 @@ Today's task focused on understanding and applying **aggregate functions**, **GR
 - Used `HAVING` to filter groups based on aggregate values, such as destinations with high average destination budget. 
 - Lernede how to connect tables and perform relational data analysis to get meaningful insights.
 
+**Tools used:** MySQL Workbench
 **Outcome:**  
 - Gained hands-on experience in *aggregation function** and **categorization**.  
 - Practiced **grouping and filtering** grouped data effectively.  
-- Improved understanding of relational data analysis by linking two tandalysis
+- Improved understanding of relational data analysis by linking two tables. 
